@@ -1,0 +1,2 @@
+# isoboot
+My Manjaro
